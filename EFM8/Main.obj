@@ -1,0 +1,250 @@
+<MODULE>
+Main
+</MODULE>
+
+<OPTC51>
+--model-small
+</OPTC51>
+
+<SEGMENTS>
+R_GSINIT,code,0000,NO
+R_BSEG,bit,0000,NO
+R_XSEG,xdata,0000,NO
+BIT_BANK,data,0000,OV
+R_CONST,code,001B,NO
+rbank0,data,0000,OV
+R_PSEG,xdata,0000,NO
+R_DINIT,code,0011,NO
+R_DSEG,data,0006,NO
+R_OSEG,data,0000,OV
+R_IXSEG,xdata,0000,NO
+R_ISEG,idata,0000,NO
+R_HOME,code,0000,NO
+R_XINIT,code,0000,NO
+R_CSEG,code,012C,NO
+</SEGMENTS>
+
+<LOCALS>
+L002004?,R_CSEG,0023,0000
+L002001?,R_CSEG,0018,0000
+L009012?,R_CSEG,00EA,0000
+L009011?,R_CSEG,00E3,0000
+L006009?,R_CSEG,00B6,0000
+L010002?,R_CSEG,0124,0000
+__str_0,R_CONST,0000,0000
+L008005?,R_CSEG,00D2,0000
+L008002?,R_CSEG,00D9,0000
+L009004?,R_CSEG,0100,0000
+L009003?,R_CSEG,00FB,0000
+L009002?,R_CSEG,00F6,0000
+L009001?,R_CSEG,00F1,0000
+</LOCALS>
+
+<PUBLICS>
+_main,R_CSEG,0104,0000
+_getIO,R_CSEG,00CB,0000
+__c51_external_startup,R_CSEG,0000,0000
+_milliseconds,R_DSEG,0000,0002
+_gauge_state,R_DSEG,0005,0001
+_Timer2_ISR,R_CSEG,0073,0000
+_Timer2_init,R_CSEG,005C,0000
+_minutes,R_DSEG,0003,0001
+_seconds,R_DSEG,0002,0001
+_hours,R_DSEG,0004,0001
+_Timer1_init,R_CSEG,0048,0000
+_gauge_update,R_CSEG,00DD,0000
+_Pin_init,R_CSEG,00BB,0000
+_UART0_init,R_CSEG,0035,0000
+</PUBLICS>
+
+<EXTERNALS>
+_printf,any,0000,0000
+_crt0,any,0000,0000
+</EXTERNALS>
+
+<CODE AT 0000>
+</CODE>
+
+<CODE R_HOME>
+</CODE>
+
+<CODE R_GSINIT>
+</CODE>
+
+<CODE R_CSEG>
+</CODE>
+
+<CODE AT 0000>
+02 addr16(_crt0;)  
+</CODE>
+
+<CODE AT 002B>
+02 addr16(_Timer2_ISR;)  
+</CODE>
+
+<CODE R_HOME>
+</CODE>
+
+<CODE R_GSINIT>
+</CODE>
+
+<CODE R_GSINIT>
+</CODE>
+
+<CODE R_DINIT>
+E4
+F5 data8(_milliseconds;)
+F5 data8(_milliseconds;0x0001;+;)
+75 data8(_seconds;) 00
+75 data8(_minutes;) 00
+75 data8(_hours;) 00
+75 data8(_gauge_state;) 00
+</CODE>
+
+<CODE R_CSEG>
+75 A7 00
+75 97 DE
+75 97 AD
+75 A7 10
+75 C1 20
+75 A7 00
+75 A9 00
+75 A9 00
+E5 A9
+30 E7 rel3(L002001?;)
+75 A9 03
+75 A9 03
+E5 A9
+30 E7 rel3(L002004?;)
+75 E1 00
+75 E2 00
+75 E3 40
+75 82 00
+22
+75 98 10
+12 addr16(_Timer1_init;)  
+43 A4 10
+43 E1 01
+75 E2 00
+75 E3 40
+22
+85 8E 8E
+75 8D E6
+85 8D 8B
+53 89 0F
+43 89 20
+D2 8E
+D2 99
+22
+53 8E F7
+75 C8 00
+75 CA 90
+75 CB E8
+75 CE FF
+75 CF FF
+D2 AD
+D2 CA
+22
+C0 E0
+C0 D0
+75 D0 00
+C2 CF
+74 01
+25 data8(_milliseconds;)
+F5 data8(_milliseconds;)
+E4
+35 data8(_milliseconds;0x0001;+;)
+F5 data8(_milliseconds;0x0001;+;)
+74 E8
+B5 data8(_milliseconds;) rel3(L006009?;)
+74 03
+B5 data8(_milliseconds;0x0001;+;) rel3(L006009?;)
+E4
+F5 data8(_milliseconds;)
+F5 data8(_milliseconds;0x0001;+;)
+05 data8(_seconds;)
+B2 A2
+74 3C
+B5 data8(_seconds;) rel3(L006009?;)
+75 data8(_seconds;) 00
+05 data8(_minutes;)
+74 3C
+B5 data8(_minutes;) rel3(L006009?;)
+75 data8(_minutes;) 00
+05 data8(_hours;)
+74 18
+B5 data8(_hours;) rel3(L006009?;)
+75 data8(_hours;) 00
+D0 D0
+D0 E0
+32
+75 F6 04
+75 A5 03
+75 A6 07
+C2 A0
+C2 A1
+C2 A2
+22
+20 90 rel3(L008005?;)
+75 data8(_gauge_state;) 00
+22
+20 91 rel3(L008002?;)
+75 data8(_gauge_state;) 02
+22
+75 data8(_gauge_state;) 01
+22
+E4
+B5 data8(_gauge_state;) rel3(L009011?;)
+80 rel2(L009001?;)
+74 01
+B5 data8(_gauge_state;) rel3(L009012?;)
+80 rel2(L009002?;)
+74 02
+B5 data8(_gauge_state;) rel3(L009004?;)
+80 rel2(L009003?;)
+C2 A0
+C2 A1
+22
+D2 A0
+C2 A1
+22
+D2 A0
+D2 A1
+22
+75 data8(_gauge_state;) 00
+22
+12 addr16(_Pin_init;)  
+12 addr16(_Timer2_init;)  
+12 addr16(_UART0_init;)  
+D2 AF
+74 data8(__str_0;)
+C0 E0
+74 data8(__str_0;0x0008;>>;)
+C0 E0
+74 80
+C0 E0
+12 addr16(_printf;)  
+15 81
+15 81
+15 81
+12 addr16(_getIO;)  
+12 addr16(_gauge_update;)  
+80 rel2(L010002?;)
+</CODE>
+
+<CODE R_CSEG>
+</CODE>
+
+<CODE R_XINIT>
+</CODE>
+
+<CODE R_CONST>
+44 65 76 69 63 65 20 44 6F 6E 65 20 49 6E 69 74 69
+61 6C 69 7A 69 6E 67 
+0D
+0A
+00
+</CODE>
+
+<CODE AT 002E>
+</CODE>

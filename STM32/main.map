@@ -1,0 +1,1309 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_divsi3.o)
+                              serial.o (__aeabi_idiv)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_dvmd_tls.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_divsi3.o) (__aeabi_idiv0)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+                              main.o (printf)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+                              main.o (puts)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+                              newlib_stubs.o (errno)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+                              main.o (sscanf)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o) (__seofread)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strlen.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o) (strlen)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o) (__swbuf_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-writer.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o) (_write_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o) (__swsetup_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-closer.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o) (_close_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o) (_fflush_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o) (__sinit)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fwalk.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o) (_fwalk)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o) (_global_impure_ptr)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-lseekr.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o) (_lseek_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memset.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o) (memset)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-freer.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o) (_free_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o) (_malloc_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o) (__ssvfscanf_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o) (_vfprintf_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o) (_scanf_chars)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-readr.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o) (_read_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sbrkr.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sccl.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o) (__sccl)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o) (_strtol_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o) (_strtoul_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o) (__submore)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fstatr.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-isattyr.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o) (_isatty_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o) (__global_locale)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mbtowc_r.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o) (__ascii_mbtowc)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memchr-stub.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o) (memchr)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o) (memcpy)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memmove.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o) (memmove)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mlock.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o) (_realloc_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strcmp.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o) (strcmp)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wctomb_r.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o) (__ascii_wctomb)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ctype_.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o) (_ctype_)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-msizer.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_udivsi3.o)
+                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o) (__aeabi_uidiv)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+ComError            0x4               serial.o
+ComRXBuffer         0x4c              serial.o
+ComTXBuffer         0x4c              serial.o
+ComOpen             0x4               serial.o
+ComBusy             0x4               serial.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x08000000         0x00010000
+ram              0x20000000         0x00002000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD main.o
+LOAD serial.o
+LOAD lcd4bit.o
+LOAD startup.o
+LOAD newlib_stubs.o
+START GROUP
+LOAD D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a
+LOAD D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a
+LOAD D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libm.a
+END GROUP
+
+.text           0x08000000     0x3d68
+ *(.vectors)
+ .vectors       0x08000000       0xc0 startup.o
+                0x08000000                Vectors
+ *(.after_vectors*)
+ .after_vectors
+                0x080000c0       0x1a startup.o
+                0x080000c0                ResetInit
+ *(.text*)
+ *fill*         0x080000da        0x2 
+ .text          0x080000dc      0x7e8 main.o
+                0x080000dc                init_timer2
+                0x08000188                isr_timer2
+                0x080001cc                init_timer3
+                0x08000244                isr_timer3
+                0x080002a8                init_IO
+                0x08000320                updateMode
+                0x08000374                update_IO
+                0x080004f0                _update_seconds
+                0x08000520                _update_minutes
+                0x08000550                _update_hours
+                0x0800057c                LED_state_update
+                0x080005c0                main
+                0x080006a8                clearbuffer
+                0x080006f4                command
+                0x08000754                _print_time
+                0x0800079c                _set_time
+ .text          0x080008c4      0x508 serial.o
+                0x080008c4                ReadCom
+                0x08000938                WriteCom
+                0x080009dc                initUART
+                0x08000b24                isr_usart1
+                0x08000b50                usart_rx
+                0x08000b80                usart_tx
+                0x08000bf8                PutBuf
+                0x08000c56                GetBuf
+                0x08000ca8                GetBufCount
+                0x08000cbc                eputs
+                0x08000cf8                eputc
+                0x08000d16                egetc
+                0x08000d30                egets
+ .text          0x08000dcc      0x428 lcd4bit.o
+                0x08000dcc                Timer15us
+                0x08000e94                waitms
+                0x08000ed0                LCD_pulse
+                0x08000efc                LCD_byte
+                0x08001048                WriteData
+                0x08001080                WriteCommand
+                0x080010b8                lcd4bit_init
+                0x08001178                LCDprint
+ .text          0x080011f4      0x148 startup.o
+                0x08001268                initClock
+                0x08001314                Default_Handler
+                0x08001328                Hard_Fault_Handler
+ .text          0x0800133c      0x2a8 newlib_stubs.o
+                0x0800133c                _exit
+                0x08001346                _close
+                0x0800135a                _execve
+                0x0800137c                _fork
+                0x08001394                _fstat
+                0x080013b0                _getpid
+                0x080013bc                _kill
+                0x080013dc                _link
+                0x080013fc                _lseek
+                0x08001412                _stat
+                0x0800142e                _times
+                0x08001442                _unlink
+                0x08001460                _wait
+                0x08001480                _isatty
+                0x080014a8                _sbrk
+                0x08001518                _read
+                0x08001590                _write
+ .text          0x080015e4      0x1d4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_divsi3.o)
+                0x080015e4                __divsi3
+                0x080015e4                __aeabi_idiv
+                0x080017b0                __aeabi_idivmod
+ .text          0x080017b8        0x4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_dvmd_tls.o)
+                0x080017b8                __aeabi_idiv0
+                0x080017b8                __aeabi_ldiv0
+ .text          0x080017bc        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x080017bc       0x28 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+                0x080017bc                _iprintf_r
+                0x080017bc                _printf_r
+ .text.printf   0x080017e4       0x34 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+                0x080017e4                iprintf
+                0x080017e4                printf
+ .text          0x08001818        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+ .text._puts_r  0x08001818       0xc0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+                0x08001818                _puts_r
+ .text.puts     0x080018d8       0x14 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+                0x080018d8                puts
+ .text          0x080018ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x080018ec       0x1a D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+                0x080018ec                cleanup_glue
+ *fill*         0x08001906        0x2 
+ .text._reclaim_reent
+                0x08001908       0xcc D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+                0x08001908                _reclaim_reent
+ .text          0x080019d4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+ .text.sscanf   0x080019d4       0x50 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+                0x080019d4                siscanf
+                0x080019d4                sscanf
+ .text._sscanf_r
+                0x08001a24       0x4c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+                0x08001a24                _sscanf_r
+                0x08001a24                _siscanf_r
+ .text          0x08001a70        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+ .text.__sread  0x08001a70       0x28 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+                0x08001a70                __sread
+ .text.__seofread
+                0x08001a98        0x4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+                0x08001a98                __seofread
+ .text.__swrite
+                0x08001a9c       0x38 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+                0x08001a9c                __swrite
+ .text.__sseek  0x08001ad4       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+                0x08001ad4                __sseek
+ .text.__sclose
+                0x08001b00        0xc D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+                0x08001b00                __sclose
+ .text          0x08001b0c        0xe D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strlen.o)
+                0x08001b0c                strlen
+ .text          0x08001b1a        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+ *fill*         0x08001b1a        0x2 
+ .text.__swbuf_r
+                0x08001b1c       0xac D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+                0x08001b1c                __swbuf_r
+ .text.__swbuf  0x08001bc8       0x14 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+                0x08001bc8                __swbuf
+ .text          0x08001bdc        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-writer.o)
+ .text._write_r
+                0x08001bdc       0x28 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-writer.o)
+                0x08001bdc                _write_r
+ .text          0x08001c04        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+ .text.__swsetup_r
+                0x08001c04       0xec D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+                0x08001c04                __swsetup_r
+ .text          0x08001cf0        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-closer.o)
+ .text._close_r
+                0x08001cf0       0x24 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-closer.o)
+                0x08001cf0                _close_r
+ .text          0x08001d14        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x08001d14      0x114 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+                0x08001d14                __sflush_r
+ .text._fflush_r
+                0x08001e28       0x58 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+                0x08001e28                _fflush_r
+ .text.fflush   0x08001e80       0x28 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+                0x08001e80                fflush
+ .text          0x08001ea8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x08001ea8        0x4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+ .text.std      0x08001eac       0x48 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x08001ef4       0x10 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x08001ef4                _cleanup_r
+ .text.__fp_unlock
+                0x08001f04        0x4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x08001f08       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x08001f08                __sfmoreglue
+ .text._cleanup
+                0x08001f34       0x10 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x08001f34                _cleanup
+ .text.__sinit  0x08001f44       0x68 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x08001f44                __sinit
+ .text.__sfp    0x08001fac       0x7c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x08001fac                __sfp
+ .text.__sfp_lock_acquire
+                0x08002028        0x2 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x08002028                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x0800202a        0x2 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x0800202a                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x0800202c        0x2 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x0800202c                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x0800202e        0x2 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x0800202e                __sinit_lock_release
+ .text.__fp_lock_all
+                0x08002030       0x18 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x08002030                __fp_lock_all
+ .text.__fp_unlock_all
+                0x08002048       0x18 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x08002048                __fp_unlock_all
+ .text          0x08002060        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x08002060       0x38 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fwalk.o)
+                0x08002060                _fwalk
+ .text._fwalk_reent
+                0x08002098       0x42 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fwalk.o)
+                0x08002098                _fwalk_reent
+ .text          0x080020da        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+ .text          0x080020da        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-lseekr.o)
+ *fill*         0x080020da        0x2 
+ .text._lseek_r
+                0x080020dc       0x28 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-lseekr.o)
+                0x080020dc                _lseek_r
+ .text          0x08002104        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x08002104       0x50 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+                0x08002104                __swhatbuf_r
+ .text.__smakebuf_r
+                0x08002154       0x88 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+                0x08002154                __smakebuf_r
+ .text          0x080021dc        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x080021dc       0x10 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memset.o)
+                0x080021dc                memset
+ .text          0x080021ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x080021ec       0x94 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-freer.o)
+                0x080021ec                _free_r
+ .text          0x08002280        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x08002280       0xbc D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+                0x08002280                _malloc_r
+ .text          0x0800233c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+ .text._sungetc_r
+                0x0800233c       0x78 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+                0x0800233c                _sungetc_r
+ .text.__ssrefill_r
+                0x080023b4       0x3e D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+                0x080023b4                __ssrefill_r
+ *fill*         0x080023f2        0x2 
+ .text.__ssvfscanf_r
+                0x080023f4      0x2fc D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+                0x080023f4                __ssvfiscanf_r
+                0x080023f4                __ssvfscanf_r
+ .text          0x080026f0        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputc_r
+                0x080026f0       0x2a D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x0800271a       0x24 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0800271a                __sfputs_r
+ .text.__sprint_r
+                0x0800273e       0x1c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0800273e                __sprint_r
+ *fill*         0x0800275a        0x2 
+ .text._vfprintf_r
+                0x0800275c      0x22c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0800275c                _vfprintf_r
+                0x0800275c                _vfiprintf_r
+ .text.vfprintf
+                0x08002988       0x18 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x08002988                vfprintf
+                0x08002988                vfiprintf
+ .text          0x080029a0        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text._printf_common
+                0x080029a0       0xda D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x080029a0                _printf_common
+ *fill*         0x08002a7a        0x2 
+ .text._printf_i
+                0x08002a7c      0x210 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x08002a7c                _printf_i
+ .text          0x08002c8c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+ .text._scanf_chars
+                0x08002c8c       0xca D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+                0x08002c8c                _scanf_chars
+ *fill*         0x08002d56        0x2 
+ .text._scanf_i
+                0x08002d58      0x204 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+                0x08002d58                _scanf_i
+ .text          0x08002f5c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-readr.o)
+ .text._read_r  0x08002f5c       0x28 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-readr.o)
+                0x08002f5c                _read_r
+ .text          0x08002f84        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x08002f84       0x24 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sbrkr.o)
+                0x08002f84                _sbrk_r
+ .text          0x08002fa8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sccl.o)
+ .text.__sccl   0x08002fa8       0x60 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sccl.o)
+                0x08002fa8                __sccl
+ .text          0x08003008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+ .text._strtol_l.isra.0
+                0x08003008      0x104 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x0800310c       0x20 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+                0x0800310c                _strtol_r
+ .text.strtol_l
+                0x0800312c       0x18 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+                0x0800312c                strtol_l
+ .text.strtol   0x08003144       0x28 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+                0x08003144                strtol
+ .text          0x0800316c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+ .text._strtoul_l.isra.0
+                0x0800316c      0x106 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+ *fill*         0x08003272        0x2 
+ .text._strtoul_r
+                0x08003274       0x20 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+                0x08003274                _strtoul_r
+ .text.strtoul_l
+                0x08003294       0x18 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+                0x08003294                strtoul_l
+ .text.strtoul  0x080032ac       0x28 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+                0x080032ac                strtoul
+ .text          0x080032d4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+ .text.__submore
+                0x080032d4       0x7c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+                0x080032d4                __submore
+ .text._ungetc_r
+                0x08003350       0xe4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+                0x08003350                _ungetc_r
+ .text.ungetc   0x08003434       0x14 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+                0x08003434                ungetc
+ .text          0x08003448        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fstatr.o)
+ .text._fstat_r
+                0x08003448       0x24 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fstatr.o)
+                0x08003448                _fstat_r
+ .text          0x0800346c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0800346c      0x2c0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+                0x0800346c                __sfvwrite_r
+ .text          0x0800372c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-isattyr.o)
+ .text._isatty_r
+                0x0800372c       0x24 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-isattyr.o)
+                0x0800372c                _isatty_r
+ .text          0x08003750        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x08003750       0x40 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                0x08003750                _setlocale_r
+ .text.__locale_mb_cur_max
+                0x08003790       0x1c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                0x08003790                __locale_mb_cur_max
+ .text.__locale_ctype_ptr_l
+                0x080037ac        0x6 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                0x080037ac                __locale_ctype_ptr_l
+ *fill*         0x080037b2        0x2 
+ .text.__locale_ctype_ptr
+                0x080037b4       0x1c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                0x080037b4                __locale_ctype_ptr
+ .text.setlocale
+                0x080037d0       0x14 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                0x080037d0                setlocale
+ .text          0x080037e4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mbtowc_r.o)
+ .text._mbtowc_r
+                0x080037e4       0x24 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mbtowc_r.o)
+                0x080037e4                _mbtowc_r
+ .text.__ascii_mbtowc
+                0x08003808       0x24 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mbtowc_r.o)
+                0x08003808                __ascii_mbtowc
+ .text          0x0800382c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memchr-stub.o)
+ .text.memchr   0x0800382c       0x16 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memchr-stub.o)
+                0x0800382c                memchr
+ .text          0x08003842        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x08003842       0x12 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+                0x08003842                memcpy
+ .text          0x08003854        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memmove.o)
+ .text.memmove  0x08003854       0x26 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memmove.o)
+                0x08003854                memmove
+ .text          0x0800387a        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0800387a        0x2 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mlock.o)
+                0x0800387a                __malloc_lock
+ .text.__malloc_unlock
+                0x0800387c        0x2 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mlock.o)
+                0x0800387c                __malloc_unlock
+ .text          0x0800387e        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0800387e       0x4c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o)
+                0x0800387e                _realloc_r
+ .text          0x080038ca       0x14 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strcmp.o)
+                0x080038ca                strcmp
+ .text          0x080038de        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wctomb_r.o)
+ *fill*         0x080038de        0x2 
+ .text._wctomb_r
+                0x080038e0       0x20 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wctomb_r.o)
+                0x080038e0                _wctomb_r
+ .text.__ascii_wctomb
+                0x08003900       0x18 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wctomb_r.o)
+                0x08003900                __ascii_wctomb
+ .text          0x08003918        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ctype_.o)
+ .text          0x08003918        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x08003918       0x10 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-msizer.o)
+                0x08003918                _malloc_usable_size_r
+ .text          0x08003928      0x114 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_udivsi3.o)
+                0x08003928                __aeabi_uidiv
+                0x08003928                __udivsi3
+                0x08003a34                __aeabi_uidivmod
+ *(.rodata*)
+ .rodata        0x08003a3c       0xfd main.o
+ *fill*         0x08003b39        0x3 
+ .rodata        0x08003b3c       0x12 lcd4bit.o
+ *fill*         0x08003b4e        0x2 
+ .rodata        0x08003b50       0x4c startup.o
+ .rodata.__sf_fake_stderr
+                0x08003b9c       0x20 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x08003b9c                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x08003bbc       0x20 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x08003bbc                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x08003bdc       0x20 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                0x08003bdc                __sf_fake_stdout
+ .rodata._global_impure_ptr
+                0x08003bfc        0x4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+                0x08003bfc                _global_impure_ptr
+ .rodata.__ssvfscanf_r.str1.1
+                0x08003c00        0x4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+ .rodata._vfprintf_r.str1.1
+                0x08003c04        0xd D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                                 0x11 (size before relaxing)
+ .rodata._printf_i.str1.1
+                0x08003c11       0x22 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ *fill*         0x08003c33        0x1 
+ .rodata        0x08003c34        0xc D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+ .rodata._scanf_i.str1.1
+                0x08003c40       0x12 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+ .rodata.str1.1
+                0x08003c52        0x9 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+ .rodata._setlocale_r.str1.1
+                0x08003c5b        0x8 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                                  0x9 (size before relaxing)
+ .rodata.str1.1
+                0x08003c63        0x2 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+ .rodata._ctype_
+                0x08003c65      0x101 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ctype_.o)
+                0x08003c65                _ctype_
+                0x08003d68                . = ALIGN (0x4)
+ *fill*         0x08003d66        0x2 
+                0x08003d68                PROVIDE (__init_array_start, .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x08003d68                PROVIDE (__init_array_end, .)
+                0x08003d68                . = ALIGN (0x4)
+                0x08003d68                _etext = .
+
+.glue_7         0x08003d68        0x0
+ .glue_7        0x08003d68        0x0 linker stubs
+
+.glue_7t        0x08003d68        0x0
+ .glue_7t       0x08003d68        0x0 linker stubs
+
+.vfp11_veneer   0x08003d68        0x0
+ .vfp11_veneer  0x08003d68        0x0 linker stubs
+
+.v4_bx          0x08003d68        0x0
+ .v4_bx         0x08003d68        0x0 linker stubs
+
+.iplt           0x08003d68        0x0
+ .iplt          0x08003d68        0x0 main.o
+
+.rel.dyn        0x08003d68        0x0
+ .rel.iplt      0x08003d68        0x0 main.o
+
+.data           0x20000000      0x1d8 load address 0x08003d68
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _data = .
+ *(.data*)
+ .data          0x20000000        0x3 main.o
+                0x20000000                m_count
+                0x20000001                h_count
+                0x20000002                state
+ .data          0x20000003        0x0 serial.o
+ .data          0x20000003        0x0 lcd4bit.o
+ .data          0x20000003        0x0 startup.o
+ *fill*         0x20000003        0x1 
+ .data          0x20000004        0x4 newlib_stubs.o
+                0x20000004                environ
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_divsi3.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_dvmd_tls.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strlen.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-writer.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-closer.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fwalk.o)
+ .data          0x20000008        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000008        0x4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+                0x20000008                _impure_ptr
+ .data.impure_data
+                0x2000000c       0x60 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-lseekr.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memset.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-readr.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sccl.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fstatr.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-isattyr.o)
+ .data          0x2000006c        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+ .data.__global_locale
+                0x2000006c      0x16c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                0x2000006c                __global_locale
+ .data          0x200001d8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mbtowc_r.o)
+ .data          0x200001d8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memchr-stub.o)
+ .data          0x200001d8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x200001d8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memmove.o)
+ .data          0x200001d8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mlock.o)
+ .data          0x200001d8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x200001d8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strcmp.o)
+ .data          0x200001d8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wctomb_r.o)
+ .data          0x200001d8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ctype_.o)
+ .data          0x200001d8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x200001d8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_udivsi3.o)
+                0x200001d8                . = ALIGN (0x4)
+                0x200001d8                _edata = .
+
+.igot.plt       0x200001d8        0x0 load address 0x08003f40
+ .igot.plt      0x200001d8        0x0 main.o
+
+.bss            0x200001d8       0xc8 load address 0x08003f40
+                0x200001d8                _bss = .
+ *(.bss*)
+ .bss           0x200001d8        0xc main.o
+                0x200001d8                mode
+                0x200001d9                error_flag
+                0x200001da                error_bus
+                0x200001db                seconds_flag
+                0x200001dc                ms_count
+                0x200001e0                s_count
+                0x200001e1                tim3_count
+                0x200001e2                output_state0
+                0x200001e3                output_state1
+ .bss           0x200001e4        0x0 serial.o
+ .bss           0x200001e4        0x0 lcd4bit.o
+ .bss           0x200001e4        0x0 startup.o
+ .bss           0x200001e4        0x8 newlib_stubs.o
+                0x200001e4                __env
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_divsi3.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strlen.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-writer.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-closer.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fwalk.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-lseekr.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memset.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x200001ec        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_free_list
+                0x200001ec        0x4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+                0x200001ec                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x200001f0        0x4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+                0x200001f0                __malloc_sbrk_start
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-readr.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sccl.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fstatr.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-isattyr.o)
+ .bss           0x200001f4        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x200001f4        0x4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                0x200001f4                _PathLocale
+ .bss           0x200001f8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mbtowc_r.o)
+ .bss           0x200001f8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memchr-stub.o)
+ .bss           0x200001f8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x200001f8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memmove.o)
+ .bss           0x200001f8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mlock.o)
+ .bss           0x200001f8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x200001f8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strcmp.o)
+ .bss           0x200001f8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wctomb_r.o)
+ .bss           0x200001f8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ctype_.o)
+ .bss           0x200001f8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x200001f8        0x0 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_udivsi3.o)
+ *(COMMON)
+ COMMON         0x200001f8       0xa4 serial.o
+                0x200001f8                ComError
+                0x200001fc                ComRXBuffer
+                0x20000248                ComTXBuffer
+                0x20000294                ComOpen
+                0x20000298                ComBusy
+ COMMON         0x2000029c        0x4 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+                0x2000029c                errno
+                0x200002a0                . = ALIGN (0x4)
+                0x200002a0                _ebss = .
+                [!provide]                PROVIDE (end, .)
+                0x200002a0                PROVIDE (_HeapStart, .)
+                0x20002000                PROVIDE (_StackTop, (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(main.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x3973
+ .debug_info    0x00000000      0xb3a main.o
+ .debug_info    0x00000b3a      0xb77 serial.o
+ .debug_info    0x000016b1      0x9ce lcd4bit.o
+ .debug_info    0x0000207f      0x99c startup.o
+ .debug_info    0x00002a1b      0xf58 newlib_stubs.o
+
+.debug_abbrev   0x00000000      0xbb5
+ .debug_abbrev  0x00000000      0x2c1 main.o
+ .debug_abbrev  0x000002c1      0x27a serial.o
+ .debug_abbrev  0x0000053b      0x206 lcd4bit.o
+ .debug_abbrev  0x00000741      0x209 startup.o
+ .debug_abbrev  0x0000094a      0x26b newlib_stubs.o
+
+.debug_aranges  0x00000000       0xa8
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x20 serial.o
+ .debug_aranges
+                0x00000040       0x20 lcd4bit.o
+ .debug_aranges
+                0x00000060       0x28 startup.o
+ .debug_aranges
+                0x00000088       0x20 newlib_stubs.o
+
+.debug_line     0x00000000      0xc7d
+ .debug_line    0x00000000      0x2b0 main.o
+ .debug_line    0x000002b0      0x296 serial.o
+ .debug_line    0x00000546      0x261 lcd4bit.o
+ .debug_line    0x000007a7      0x1fb startup.o
+ .debug_line    0x000009a2      0x2db newlib_stubs.o
+
+.debug_str      0x00000000      0xa06
+ .debug_str     0x00000000      0x5d2 main.o
+                                0x663 (size before relaxing)
+ .debug_str     0x000005d2       0xd3 serial.o
+                                0x5fc (size before relaxing)
+ .debug_str     0x000006a5       0x6d lcd4bit.o
+                                0x57a (size before relaxing)
+ .debug_str     0x00000712       0x9a startup.o
+                                0x5a7 (size before relaxing)
+ .debug_str     0x000007ac      0x25a newlib_stubs.o
+                                0x7d6 (size before relaxing)
+
+.comment        0x00000000       0x7e
+ .comment       0x00000000       0x7e main.o
+                                 0x7f (size before relaxing)
+ .comment       0x0000007e       0x7f serial.o
+ .comment       0x0000007e       0x7f lcd4bit.o
+ .comment       0x0000007e       0x7f startup.o
+ .comment       0x0000007e       0x7f newlib_stubs.o
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x31 main.o
+ .ARM.attributes
+                0x00000031       0x31 serial.o
+ .ARM.attributes
+                0x00000062       0x31 lcd4bit.o
+ .ARM.attributes
+                0x00000093       0x31 startup.o
+ .ARM.attributes
+                0x000000c4       0x31 newlib_stubs.o
+ .ARM.attributes
+                0x000000f5       0x1e D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000113       0x1e D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000131       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+ .ARM.attributes
+                0x0000015d       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+ .ARM.attributes
+                0x00000189       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000001b5       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+ .ARM.attributes
+                0x000001e1       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x0000020d       0x1c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000229       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x00000255       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000281       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x000002ad       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x000002d9       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000305       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x00000331       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x0000035d       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000389       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x000003b5       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x000003e1       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000040d       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000439       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000465       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+ .ARM.attributes
+                0x00000491       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x000004bd       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x000004e9       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+ .ARM.attributes
+                0x00000515       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000541       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000056d       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sccl.o)
+ .ARM.attributes
+                0x00000599       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x000005c5       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+ .ARM.attributes
+                0x000005f1       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+ .ARM.attributes
+                0x0000061d       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x00000649       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x00000675       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x000006a1       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+ .ARM.attributes
+                0x000006cd       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x000006f9       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000725       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000751       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000077d       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000007a9       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x000007d5       0x1c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x000007f1       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x0000081d       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000849       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x00000875       0x1e D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_udivsi3.o)
+
+.debug_frame    0x00000000     0x134c
+ .debug_frame   0x00000000      0x1e8 main.o
+ .debug_frame   0x000001e8      0x1a4 serial.o
+ .debug_frame   0x0000038c      0x108 lcd4bit.o
+ .debug_frame   0x00000494       0x94 startup.o
+ .debug_frame   0x00000528      0x228 newlib_stubs.o
+ .debug_frame   0x00000750       0x20 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000770       0x50 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+ .debug_frame   0x000007c0       0x44 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+ .debug_frame   0x00000804       0x48 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000084c       0x58 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+ .debug_frame   0x000008a4       0x90 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000934       0x48 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x0000097c       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x000009a8       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x000009d4       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x00000a00       0x68 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00000a68      0x140 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x00000ba8       0x58 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000c00       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x00000c2c       0x54 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x00000c80       0x20 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000ca0       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000ccc       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000cf8       0x68 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+ .debug_frame   0x00000d60       0x9c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x00000dfc       0x54 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000e50       0x54 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+ .debug_frame   0x00000ea4       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x00000ed0       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000efc       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sccl.o)
+ .debug_frame   0x00000f28       0x88 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+ .debug_frame   0x00000fb0       0x88 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+ .debug_frame   0x00001038       0x6c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+ .debug_frame   0x000010a4       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x000010d0       0x30 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x00001100       0x2c D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x0000112c       0x74 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+ .debug_frame   0x000011a0       0x44 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x000011e4       0x20 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00001204       0x28 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000122c       0x28 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00001254       0x30 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00001284       0x30 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x000012b4       0x20 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strcmp.o)
+ .debug_frame   0x000012d4       0x38 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wctomb_r.o)
+ .debug_frame   0x0000130c       0x20 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000132c       0x20 D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_udivsi3.o)
+
+.debug_ranges   0x00000000       0x18
+ .debug_ranges  0x00000000       0x18 startup.o
+
+Cross Reference Table
+
+Symbol                                            File
+ComBusy                                           serial.o
+ComError                                          serial.o
+ComOpen                                           serial.o
+ComRXBuffer                                       serial.o
+ComTXBuffer                                       serial.o
+Default_Handler                                   startup.o
+GetBuf                                            serial.o
+GetBufCount                                       serial.o
+Hard_Fault_Handler                                startup.o
+LCD_byte                                          lcd4bit.o
+LCD_pulse                                         lcd4bit.o
+LCDprint                                          lcd4bit.o
+                                                  main.o
+LED_state_update                                  main.o
+PutBuf                                            serial.o
+ReadCom                                           serial.o
+ResetInit                                         startup.o
+Timer15us                                         lcd4bit.o
+Vectors                                           startup.o
+WriteCom                                          serial.o
+WriteCommand                                      lcd4bit.o
+WriteData                                         lcd4bit.o
+_HeapStart                                        newlib_stubs.o
+_PathLocale                                       D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+_StackTop                                         newlib_stubs.o
+                                                  startup.o
+__aeabi_idiv                                      D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_divsi3.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+                                                  serial.o
+__aeabi_idiv0                                     D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_dvmd_tls.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_udivsi3.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_divsi3.o)
+__aeabi_idivmod                                   D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_divsi3.o)
+__aeabi_ldiv0                                     D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_dvmd_tls.o)
+__aeabi_uidiv                                     D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_udivsi3.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+__aeabi_uidivmod                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_udivsi3.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+__ascii_mbtowc                                    D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mbtowc_r.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+__ascii_wctomb                                    D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wctomb_r.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+__divsi3                                          D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_divsi3.o)
+__env                                             newlib_stubs.o
+__fp_lock_all                                     D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+__fp_unlock_all                                   D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+__global_locale                                   D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wctomb_r.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mbtowc_r.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+__init_array_end                                  startup.o
+__init_array_start                                startup.o
+__locale_ctype_ptr                                D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+__locale_ctype_ptr_l                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+__locale_mb_cur_max                               D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+__malloc_free_list                                D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-freer.o)
+__malloc_lock                                     D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mlock.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-freer.o)
+__malloc_sbrk_start                               D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+__malloc_unlock                                   D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mlock.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-freer.o)
+__sccl                                            D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sccl.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+__sclose                                          D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+__seofread                                        D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+__sf_fake_stderr                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+__sf_fake_stdin                                   D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+__sf_fake_stdout                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+__sflush_r                                        D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+__sfmoreglue                                      D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+__sfp                                             D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+__sfp_lock_acquire                                D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+__sfp_lock_release                                D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+__sfputs_r                                        D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+__sfvwrite_r                                      D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+__sinit                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+__sinit_lock_acquire                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+__sinit_lock_release                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+__smakebuf_r                                      D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+__sprint_r                                        D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+__sread                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+__sseek                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+__ssrefill_r                                      D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+__ssvfiscanf_r                                    D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+__ssvfscanf_r                                     D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+__submore                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+__swbuf                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+__swbuf_r                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+__swhatbuf_r                                      D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+__swrite                                          D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+__swsetup_r                                       D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+__udivsi3                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\lib\gcc\arm-none-eabi\7.2.1\thumb\v6-m\libgcc.a(_udivsi3.o)
+_cleanup                                          D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+_cleanup_r                                        D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+_close                                            newlib_stubs.o
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-closer.o)
+_close_r                                          D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-closer.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+_ctype_                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ctype_.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+_data                                             startup.o
+_ebss                                             startup.o
+_edata                                            startup.o
+_etext                                            startup.o
+_execve                                           newlib_stubs.o
+_exit                                             newlib_stubs.o
+_fflush_r                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+_fork                                             newlib_stubs.o
+_free_r                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-freer.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+_fstat                                            newlib_stubs.o
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fstatr.o)
+_fstat_r                                          D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fstatr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+_fwalk                                            D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fwalk.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+_fwalk_reent                                      D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fwalk.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+_getpid                                           newlib_stubs.o
+_global_impure_ptr                                D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+_impure_ptr                                       D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-impure.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wctomb_r.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mbtowc_r.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+_iprintf_r                                        D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+_isatty                                           newlib_stubs.o
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-isattyr.o)
+_isatty_r                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-isattyr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+_kill                                             newlib_stubs.o
+_link                                             newlib_stubs.o
+_lseek                                            newlib_stubs.o
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-lseekr.o)
+_lseek_r                                          D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-lseekr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+_malloc_r                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-makebuf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+_malloc_usable_size_r                             D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-msizer.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o)
+_mbtowc_r                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-mbtowc_r.o)
+_print_time                                       main.o
+_printf_common                                    D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+_printf_float                                     D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+_printf_i                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+_printf_r                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+_puts_r                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+_read                                             newlib_stubs.o
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-readr.o)
+_read_r                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-readr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+_realloc_r                                        D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+_reclaim_reent                                    D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+_sbrk                                             newlib_stubs.o
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sbrkr.o)
+_sbrk_r                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sbrkr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-mallocr.o)
+_scanf_chars                                      D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+_scanf_float                                      D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+_scanf_i                                          D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+_set_time                                         main.o
+_setlocale_r                                      D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+_siscanf_r                                        D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+_sscanf_r                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+_stat                                             newlib_stubs.o
+_strtol_r                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+_strtoul_r                                        D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+_sungetc_r                                        D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+_times                                            newlib_stubs.o
+_ungetc_r                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+_unlink                                           newlib_stubs.o
+_update_hours                                     main.o
+_update_minutes                                   main.o
+_update_seconds                                   main.o
+_vfiprintf_r                                      D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+_vfprintf_r                                       D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+_wait                                             newlib_stubs.o
+_wctomb_r                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-wctomb_r.o)
+_write                                            newlib_stubs.o
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-writer.o)
+_write_r                                          D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-writer.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-stdio.o)
+cleanup_glue                                      D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+clearbuffer                                       main.o
+command                                           main.o
+egetc                                             serial.o
+                                                  newlib_stubs.o
+egets                                             serial.o
+                                                  main.o
+environ                                           newlib_stubs.o
+eputc                                             serial.o
+                                                  newlib_stubs.o
+eputs                                             serial.o
+                                                  startup.o
+errno                                             D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-reent.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-isattyr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fstatr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sbrkr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-readr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-lseekr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-closer.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-writer.o)
+                                                  newlib_stubs.o
+error_bus                                         main.o
+error_flag                                        main.o
+fflush                                            D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fflush.o)
+h_count                                           main.o
+initClock                                         startup.o
+initUART                                          serial.o
+                                                  startup.o
+init_IO                                           main.o
+init_timer2                                       main.o
+init_timer3                                       main.o
+iprintf                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+isr_timer2                                        main.o
+                                                  startup.o
+isr_timer3                                        main.o
+                                                  startup.o
+isr_usart1                                        serial.o
+                                                  startup.o
+lcd4bit_init                                      lcd4bit.o
+                                                  main.o
+m_count                                           main.o
+main                                              main.o
+                                                  startup.o
+memchr                                            D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memchr-stub.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfscanf_i.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-svfscanf.o)
+memcpy                                            D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+memmove                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memmove.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-fvwrite.o)
+memset                                            D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-memset.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-findfp.o)
+mode                                              main.o
+ms_count                                          main.o
+output_state0                                     main.o
+output_state1                                     main.o
+printf                                            D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-printf.o)
+                                                  main.o
+puts                                              D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-puts.o)
+                                                  lcd4bit.o
+                                                  main.o
+s_count                                           main.o
+seconds_flag                                      main.o
+setlocale                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+siscanf                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+sscanf                                            D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+                                                  main.o
+state                                             main.o
+strcmp                                            D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strcmp.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-locale.o)
+strlen                                            D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strlen.o)
+                                                  D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-sscanf.o)
+strtol                                            D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+strtol_l                                          D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtol.o)
+strtoul                                           D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+strtoul_l                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-strtoul.o)
+tim3_count                                        main.o
+ungetc                                            D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-ungetc.o)
+updateMode                                        main.o
+update_IO                                         main.o
+usart_rx                                          serial.o
+usart_tx                                          serial.o
+vfiprintf                                         D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+vfprintf                                          D:\Users\hunti_000\AppData\Roaming\GNU Tools ARM Embedded\7 2017-q4-major\arm-none-eabi\lib\thumb\v6-m\libc_nano.a(lib_a-nano-vfprintf.o)
+waitms                                            lcd4bit.o
